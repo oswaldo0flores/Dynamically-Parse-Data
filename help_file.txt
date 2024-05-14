@@ -1,0 +1,35 @@
+**For the application to work properly, please make sure that the column headers in each of your sheets are labeled appropriately.**
+
+
+How to use the application:
+===========================
+First, in the "URL of the Google Sheet" box, enter the URL (website address) of the google sheet you wish to process
+    - we recommend copy & pasting.
+Then, enter the sheet names of each individual sheet in this google sheet you would like to process (separated by commas)
+    - This will be the names you click on at the bottom of the webpage to switch between sheets
+    - For example, for your spreadsheet "2024 WayStation First Time Guests Form (Responses)", you would want to enter:
+        Form Responses 1, Form Responses 2, Form Responses 3, Form Responses 4
+Next, you will use the "Desired Report Type" dropdown menu to select which report type you would like to generate:
+    - Either New Guest, Welcome Back, or Exit
+After that, you will enter the URL (website address) of a Google Sheet you would like the data to be added to
+    - Again we recommend copy/pasting this URL
+    - It will add the data starting at the first empty row, so if there is already data in the spreadsheet, the new
+        data will be added below that.
+Finally, you will need to select a date range you would like totals for.
+    - You can use the "start date"/"end date" dropdown menus to select any custom date range
+        - Make sure that the "From Selection" button is selected if you choose this option
+    - Alternatively, for YTD numbers, you can select 'Current Year',
+        and for this month's numbers, you would select 'Current Month'
+
+Once you have filled in all the requisite fields, simply click the "Go" button, and the data will be processed!
+
+
+
+I would just like to stress that the application we made for you will not work as intended unless the columns are named to describe what they 
+contain (e.g. 'first name'). 
+
+Ideally, the columns in each sheet would have the exact same name as every other sheet. For example, if one sheet has a column named 
+"Do you need a bicycle?" and in another sheet, this column is only called "Bicycle", the application will total the two columns separately.
+
+If you are getting any strange results, this is the first place I would look. We are unable to predict changing or deleted column names, 
+so there is not much I can do about it from here. 

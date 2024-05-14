@@ -1,0 +1,30 @@
+TODO:
+------
+- More error catching throughout
+    -> need to create specific error messages for things like bad token.json file
+- Make sheet names case-insitive. probably need to .strip() as well.
+- add threading so the application does not freeze up?
+
+
+Notes:
+-------
+
+
+
+Dependencies:
+----------------
+pandas
+tkcalendar
+google-api-python-client
+google-auth-oauthlib
+(maybe) pillow
+
+
+Relevant Documentation:
+-----------------------
+https://developers.google.com/drive/api/quickstart/python
+https://developers.google.com/sheets/api/guides/concepts
+https://developers.google.com/sheets/api/guides/values
+https://developers.google.com/sheets/api/guides/create#python
+
+on the use of code from google api docs: https://developers.google.com/terms/site-policies
