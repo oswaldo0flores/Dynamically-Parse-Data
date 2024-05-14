@@ -1,0 +1,87 @@
+[2024-04-29 12:19:11 - new_guests_bl.py:238 - parse_sheet_names() -INFO - parsed sheet names: ['Form Responses 1', 'Form Responses 2', 'Form Responses 3', 'Form Responses 4']
+[2024-04-29 12:19:29 - new_guests_bl.py:238 - parse_sheet_names() -INFO - parsed sheet names: ['Form Responses 1', 'Form Responses 2', 'Form Responses 3', 'Form Responses 4']
+[2024-04-29 12:19:41 - flow.py:474 - log_message() -INFO - "GET /?state=4fu83taitlVcWCWaywv9rPU2ystbxn&code=4/0AeaYSHAdmkW_1zYnsQhMb8jARL71Q4fkw92a74gQolEyYH0tU2IaoHk8md502Wqd_Ow5mw&scope=https://www.googleapis.com/auth/drive%20https://www.googleapis.com/auth/documents%20https://www.googleapis.com/auth/spreadsheets%20https://www.googleapis.com/auth/forms HTTP/1.1" 200 65
+[2024-04-29 12:19:42 - __init__.py:49 - autodetect() -INFO - file_cache is only supported with oauth2client<4.0.0
+[2024-04-29 12:19:43 - __init__.py:49 - autodetect() -INFO - file_cache is only supported with oauth2client<4.0.0
+[2024-04-29 12:19:44 - __init__.py:49 - autodetect() -INFO - file_cache is only supported with oauth2client<4.0.0
+[2024-04-29 12:19:45 - __init__.py:49 - autodetect() -INFO - file_cache is only supported with oauth2client<4.0.0
+[2024-04-29 13:04:34 - new_guests_bl.py:239 - parse_sheet_names() -INFO - parsed sheet names: ['Form Responses 1', 'Form Responses 2', 'Form Responses 3', 'Form Responses 4']
+[2024-04-29 13:04:34 - __init__.py:49 - autodetect() -INFO - file_cache is only supported with oauth2client<4.0.0
+[2024-04-29 13:04:35 - __init__.py:49 - autodetect() -INFO - file_cache is only supported with oauth2client<4.0.0
+[2024-04-29 13:04:36 - __init__.py:49 - autodetect() -INFO - file_cache is only supported with oauth2client<4.0.0
+[2024-04-29 13:04:37 - __init__.py:49 - autodetect() -INFO - file_cache is only supported with oauth2client<4.0.0
+[2024-04-29 13:04:59 - new_guests_bl.py:239 - parse_sheet_names() -INFO - parsed sheet names: ['Form Responses 1', 'Form Responses 2', 'Form Responses 3', 'Form Responses 4']
+[2024-04-29 13:04:59 - __init__.py:49 - autodetect() -INFO - file_cache is only supported with oauth2client<4.0.0
+[2024-04-29 13:05:00 - google_auth_httplib2.py:238 - request() -INFO - Refreshing credentials due to a 401 response. Attempt 1/2.
+[2024-04-29 13:08:00 - new_guests_bl.py:239 - parse_sheet_names() -INFO - parsed sheet names: ['Form Responses 1', 'Form Responses 2', 'Form Responses 3', 'Form Responses 4']
+[2024-04-29 13:08:00 - __init__.py:49 - autodetect() -INFO - file_cache is only supported with oauth2client<4.0.0
+[2024-04-29 13:08:01 - google_auth_httplib2.py:238 - request() -INFO - Refreshing credentials due to a 401 response. Attempt 1/2.
+[2024-04-29 13:08:01 - google_sheet_dal.py:151 - __get_values() -ERROR - an error has occurred, ('invalid_grant: Bad Request', {'error': 'invalid_grant', 'error_description': 'Bad Request'})
+[2024-04-29 13:08:04 - google_sheet_dal.py:109 - get_data_from_file() -ERROR - An error occurred: 
+[2024-04-29 13:08:46 - new_guests_bl.py:239 - parse_sheet_names() -INFO - parsed sheet names: ['Form Responses 1', 'Form Responses 2', 'Form Responses 3', 'Form Responses 4']
+[2024-04-29 13:08:54 - flow.py:474 - log_message() -INFO - "GET /?state=16NOeRg0lBTXGCrZ11xhgp1ZJqL10Y&code=4/0AeaYSHBntMnnC-aSJl5bpFdBwaUlaM3UP0pDdW4PtuqXVjb-Mp_5K1KCHoDHScY-vE9cJA&scope=https://www.googleapis.com/auth/drive%20https://www.googleapis.com/auth/documents%20https://www.googleapis.com/auth/spreadsheets%20https://www.googleapis.com/auth/forms HTTP/1.1" 200 65
+[2024-04-29 13:08:54 - __init__.py:49 - autodetect() -INFO - file_cache is only supported with oauth2client<4.0.0
+[2024-04-29 13:08:56 - __init__.py:49 - autodetect() -INFO - file_cache is only supported with oauth2client<4.0.0
+[2024-04-29 13:08:56 - __init__.py:49 - autodetect() -INFO - file_cache is only supported with oauth2client<4.0.0
+[2024-04-29 13:08:57 - __init__.py:49 - autodetect() -INFO - file_cache is only supported with oauth2client<4.0.0
+[2024-04-29 13:11:28 - new_guests_bl.py:239 - parse_sheet_names() -INFO - parsed sheet names: ['Form Responses 1', 'Form Responses 2', 'Form Responses 3', 'Form Responses 4']
+[2024-04-29 13:11:28 - __init__.py:49 - autodetect() -INFO - file_cache is only supported with oauth2client<4.0.0
+[2024-04-29 13:11:28 - __init__.py:49 - autodetect() -INFO - file_cache is only supported with oauth2client<4.0.0
+[2024-04-29 13:11:29 - __init__.py:49 - autodetect() -INFO - file_cache is only supported with oauth2client<4.0.0
+[2024-04-29 13:11:30 - __init__.py:49 - autodetect() -INFO - file_cache is only supported with oauth2client<4.0.0
+[2024-04-29 13:11:31 - new_guest.py:57 - new_guest_factory() -ERROR - Error in one of the sheets
+[2024-04-29 13:12:30 - new_guests_bl.py:239 - parse_sheet_names() -INFO - parsed sheet names: ['1', '2', '3', '4']
+[2024-04-29 13:12:30 - __init__.py:49 - autodetect() -INFO - file_cache is only supported with oauth2client<4.0.0
+[2024-04-29 13:12:31 - __init__.py:49 - autodetect() -INFO - file_cache is only supported with oauth2client<4.0.0
+[2024-04-29 13:12:31 - __init__.py:49 - autodetect() -INFO - file_cache is only supported with oauth2client<4.0.0
+[2024-04-29 13:12:32 - new_guests_bl.py:147 - build_dict_for_factory_method() -ERROR - error retrieving data!
+[2024-04-29 13:12:32 - __init__.py:49 - autodetect() -INFO - file_cache is only supported with oauth2client<4.0.0
+[2024-04-29 13:12:34 - google_sheet_dal.py:125 - append_data_to_file() -INFO - appending values to file
+[2024-04-29 13:12:34 - __init__.py:49 - autodetect() -INFO - file_cache is only supported with oauth2client<4.0.0
+[2024-04-29 13:12:35 - google_sheet_dal.py:125 - append_data_to_file() -INFO - appending values to file
+[2024-04-29 13:12:35 - __init__.py:49 - autodetect() -INFO - file_cache is only supported with oauth2client<4.0.0
+[2024-04-29 13:12:36 - google_sheet_dal.py:125 - append_data_to_file() -INFO - appending values to file
+[2024-04-29 13:12:36 - __init__.py:49 - autodetect() -INFO - file_cache is only supported with oauth2client<4.0.0
+[2024-04-29 13:12:37 - google_sheet_dal.py:125 - append_data_to_file() -INFO - appending values to file
+[2024-04-29 13:12:37 - __init__.py:49 - autodetect() -INFO - file_cache is only supported with oauth2client<4.0.0
+[2024-04-29 13:12:37 - google_sheet_dal.py:125 - append_data_to_file() -INFO - appending values to file
+[2024-04-29 13:12:37 - __init__.py:49 - autodetect() -INFO - file_cache is only supported with oauth2client<4.0.0
+[2024-04-29 13:12:38 - google_sheet_dal.py:125 - append_data_to_file() -INFO - appending values to file
+[2024-04-29 13:12:38 - __init__.py:49 - autodetect() -INFO - file_cache is only supported with oauth2client<4.0.0
+[2024-04-29 13:12:39 - google_sheet_dal.py:125 - append_data_to_file() -INFO - appending values to file
+[2024-04-29 13:12:39 - __init__.py:49 - autodetect() -INFO - file_cache is only supported with oauth2client<4.0.0
+[2024-04-29 13:12:39 - google_sheet_dal.py:125 - append_data_to_file() -INFO - appending values to file
+[2024-04-29 13:12:39 - __init__.py:49 - autodetect() -INFO - file_cache is only supported with oauth2client<4.0.0
+[2024-04-29 13:12:40 - google_sheet_dal.py:125 - append_data_to_file() -INFO - appending values to file
+[2024-04-29 13:12:40 - __init__.py:49 - autodetect() -INFO - file_cache is only supported with oauth2client<4.0.0
+[2024-04-29 13:12:41 - google_sheet_dal.py:125 - append_data_to_file() -INFO - appending values to file
+[2024-04-29 13:12:41 - __init__.py:49 - autodetect() -INFO - file_cache is only supported with oauth2client<4.0.0
+[2024-04-29 13:12:42 - google_sheet_dal.py:125 - append_data_to_file() -INFO - appending values to file
+[2024-04-29 13:12:42 - __init__.py:49 - autodetect() -INFO - file_cache is only supported with oauth2client<4.0.0
+[2024-04-29 13:12:42 - google_sheet_dal.py:125 - append_data_to_file() -INFO - appending values to file
+[2024-04-29 13:12:42 - __init__.py:49 - autodetect() -INFO - file_cache is only supported with oauth2client<4.0.0
+[2024-04-29 13:12:43 - google_sheet_dal.py:125 - append_data_to_file() -INFO - appending values to file
+[2024-04-29 13:12:43 - __init__.py:49 - autodetect() -INFO - file_cache is only supported with oauth2client<4.0.0
+[2024-04-29 13:12:44 - google_sheet_dal.py:125 - append_data_to_file() -INFO - appending values to file
+[2024-04-29 13:12:44 - __init__.py:49 - autodetect() -INFO - file_cache is only supported with oauth2client<4.0.0
+[2024-04-29 13:12:44 - google_sheet_dal.py:125 - append_data_to_file() -INFO - appending values to file
+[2024-04-29 13:12:44 - __init__.py:49 - autodetect() -INFO - file_cache is only supported with oauth2client<4.0.0
+[2024-04-29 13:12:45 - google_sheet_dal.py:125 - append_data_to_file() -INFO - appending values to file
+[2024-04-29 13:12:45 - __init__.py:49 - autodetect() -INFO - file_cache is only supported with oauth2client<4.0.0
+[2024-04-29 13:12:46 - google_sheet_dal.py:125 - append_data_to_file() -INFO - appending values to file
+[2024-04-29 13:12:46 - __init__.py:49 - autodetect() -INFO - file_cache is only supported with oauth2client<4.0.0
+[2024-04-29 13:12:47 - google_sheet_dal.py:125 - append_data_to_file() -INFO - appending values to file
+[2024-04-29 13:12:47 - __init__.py:49 - autodetect() -INFO - file_cache is only supported with oauth2client<4.0.0
+[2024-04-29 13:12:47 - google_sheet_dal.py:125 - append_data_to_file() -INFO - appending values to file
+[2024-04-29 13:12:47 - __init__.py:49 - autodetect() -INFO - file_cache is only supported with oauth2client<4.0.0
+[2024-04-29 13:12:49 - google_sheet_dal.py:125 - append_data_to_file() -INFO - appending values to file
+[2024-04-29 13:12:49 - __init__.py:49 - autodetect() -INFO - file_cache is only supported with oauth2client<4.0.0
+[2024-04-29 13:12:50 - google_sheet_dal.py:125 - append_data_to_file() -INFO - appending values to file
+[2024-04-29 13:12:50 - __init__.py:49 - autodetect() -INFO - file_cache is only supported with oauth2client<4.0.0
+[2024-04-29 13:12:51 - google_sheet_dal.py:125 - append_data_to_file() -INFO - appending values to file
+[2024-04-29 13:12:51 - __init__.py:49 - autodetect() -INFO - file_cache is only supported with oauth2client<4.0.0
+[2024-04-29 13:12:51 - google_sheet_dal.py:125 - append_data_to_file() -INFO - appending values to file
+[2024-04-29 13:12:51 - __init__.py:49 - autodetect() -INFO - file_cache is only supported with oauth2client<4.0.0
+[2024-04-29 13:12:52 - google_sheet_dal.py:125 - append_data_to_file() -INFO - appending values to file
+[2024-04-29 13:12:52 - __init__.py:49 - autodetect() -INFO - file_cache is only supported with oauth2client<4.0.0
+[2024-04-29 13:12:53 - __init__.py:49 - autodetect() -INFO - file_cache is only supported with oauth2client<4.0.0
